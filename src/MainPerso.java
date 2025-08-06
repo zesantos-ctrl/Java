@@ -39,6 +39,14 @@ Interface gráfica simples com Swing ou JavaFX.
 Salvamento de personagens em arquivo (usando FileWriter/Scanner).
 
 Se quiser, posso te ajudar a expandir isso para um sistema mais completo. Deseja adicionar mais alguma coisa como inventário, habilidades ou criação interativa via terminal?
+
+Outras ideias:
+Funcionalidade	Como implementar?
+🧟‍♂️ Inimigos com IA simples	Criar classe Inimigo com comportamento de ataque automático
+🏹 Armas e equipamentos	Criar classe Equipamento, aplicar bônus ao personagem
+🗺️ Sistema de mapa/texto	Criar um menu com opções de explorar ou lutar
+🕹️ Batalha por turnos	Criar um loop com escolhas de ataque ou fuga
+👥 Múltiplos personagens	Usar uma ArrayList<Personagem> para criar um grupo
     */
 
 
