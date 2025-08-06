@@ -37,6 +37,8 @@ Sistema de experiência e pontos para evoluir.
 Interface gráfica simples com Swing ou JavaFX.
 
 Salvamento de personagens em arquivo (usando FileWriter/Scanner).
+
+Se quiser, posso te ajudar a expandir isso para um sistema mais completo. Deseja adicionar mais alguma coisa como inventário, habilidades ou criação interativa via terminal?
     */
 
 
