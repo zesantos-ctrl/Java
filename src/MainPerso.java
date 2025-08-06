@@ -17,3 +17,26 @@ public class MainPerso {
         mago.exibirStatus();
     }
 }
+/*
+✅ O que esse código faz?
+Cria personagens com nome e classe.
+
+Exibe o status dos personagens.
+
+Permite que um personagem ataque outro.
+
+Permite subir de nível, aumentando vida e força.
+
+🔁 O que você pode adicionar depois?
+Sistema de habilidades específicas por classe.
+
+Inventário (lista de itens).
+
+Sistema de experiência e pontos para evoluir.
+
+Interface gráfica simples com Swing ou JavaFX.
+
+Salvamento de personagens em arquivo (usando FileWriter/Scanner).
+    */
+
+
