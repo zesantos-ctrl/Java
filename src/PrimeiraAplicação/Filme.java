@@ -1,3 +1,5 @@
+package PrimeiraAplicação;
+
 import java.util.Scanner;
 
 public class Filme {

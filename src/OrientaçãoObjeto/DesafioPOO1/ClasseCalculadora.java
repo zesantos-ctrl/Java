@@ -1,4 +1,4 @@
-package Desafio1;
+package OrientaçãoObjeto.DesafioPOO1;
 
 public class ClasseCalculadora {
     public static void main(String[] args) {

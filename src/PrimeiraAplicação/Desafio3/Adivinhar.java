@@ -1,4 +1,4 @@
-package Desafio3;
+package PrimeiraAplicação.Desafio3;
 
 import java.util.Random;
 import java.util.Scanner;

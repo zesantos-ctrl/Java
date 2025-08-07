@@ -1,4 +1,4 @@
-package Desafio1;
+package PrimeiraAplicação.Desafio1;
 
 public class Estudos {
     public static void main(String[] args) {

@@ -1,9 +1,11 @@
+package PrimeiraAplicação;
+
 //TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 public class Main {
     public static void main(String[] args) {
         System.out.println("Esse é o Screen Match");
-        System.out.println("Screenmatch.modelos.Filme: Top Gun: Maverick");
+        System.out.println("Screenmatch.modelos.PrimeiraAplicação.Filme: Top Gun: Maverick");
 
         int anoDeLancamento = 2022;
         //concatenação
@@ -16,8 +18,8 @@ public class Main {
         System.out.println(media);
         String sinopse;
         sinopse = """
-                Screenmatch.modelos.Filme Top Gun
-                Screenmatch.modelos.Filme de aventura com galã dos anos 80
+                Screenmatch.modelos.PrimeiraAplicação.Filme Top Gun
+                Screenmatch.modelos.PrimeiraAplicação.Filme de aventura com galã dos anos 80
                 Muito bom 
                 Ano de lançamento 
                 """ + anoDeLancamento;  //Text Block

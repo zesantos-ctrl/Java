@@ -1,4 +1,4 @@
-package Desafio1;
+package PrimeiraAplicação.Desafio1;
 
 public class Soma {
     public static void main(String[] args) {

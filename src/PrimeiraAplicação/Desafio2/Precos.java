@@ -1,4 +1,4 @@
-package Desafio2;
+package PrimeiraAplicação.Desafio2;
 
 public class Precos {
     public static void  main (String[] args){

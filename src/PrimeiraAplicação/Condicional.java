@@ -1,3 +1,5 @@
+package PrimeiraAplicação;
+
 public class Condicional {
     public static void main(String[] args) {
         int anoDeLancamento = 2022;
@@ -8,11 +10,11 @@ public class Condicional {
         if (anoDeLancamento >= 2022) {
             System.out.println("Lançamento que os clientes estão curtindo!");
         } else {
-            System.out.println("Filme retrô que vale a pena assitir!");
+            System.out.println("PrimeiraAplicação.Filme retrô que vale a pena assitir!");
         }
 
         if (incluidoNoPlano == true || tipoPlano.equals("plus")) {
-            System.out.println("Filme liberado");
+            System.out.println("PrimeiraAplicação.Filme liberado");
         } else {
             System.out.println("Deve pagar a locação");
         }
